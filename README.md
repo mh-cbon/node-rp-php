@@ -1,6 +1,6 @@
 # node Reverse Proxy php
 
-For The Fun ! Using node to reverse proxy php servers. Less than 200l lines of code !
+For The Fun ! Using node to reverse proxy php servers. Less than 200 lines of code !
 
 # Install & test
 
